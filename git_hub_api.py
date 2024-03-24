@@ -2,7 +2,7 @@ import pprint
 
 import requests
 
-url = 'https://api.github.com/search/code?q=+user:ubi22'
+url = 'https://api.github.com/search/code?q='
 token = ''
 
 session = requests.session()
